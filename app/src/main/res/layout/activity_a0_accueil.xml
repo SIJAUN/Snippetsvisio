@@ -10,6 +10,7 @@
         android:id="@+id/tvTitreLayoutXml"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:background="@drawable/a0_shape_accueil_layout_titre"
         android:text="Layout XML"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
